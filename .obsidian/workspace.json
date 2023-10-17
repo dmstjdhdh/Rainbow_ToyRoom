@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/React/React 공부.md",
+                "file": "Write/C/hyisu/삼항연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/React/React 공부.md",
+                "file": "Write/C/hyisu/삼항연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/React/React 공부.md",
+                "file": "Write/C/hyisu/삼항연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/React/React 공부.md"
+                "file": "Write/C/hyisu/삼항연산자.md"
               }
             }
           }
@@ -148,19 +148,23 @@
   },
   "active": "2d8cbaea834b9806",
   "lastOpenFiles": [
+    "Write/C/Subin/initial.md",
+    "Write/C/hyisu/삼항연산자.md",
+    "Write/C/C언어 공부파일을 적는 곳.md",
+    "Write/JavaScript/hyisu/initial.md",
+    "Write/CSS/CSS에 대한 공부.md",
+    "Write/JavaScript/JavaScript 공부.md",
+    "Write/HTML/HTML 공부.md",
+    "Write/CS/hyisu/initial.md",
+    "Write/React/React 공부.md",
     "Write/React/hyisu/initial.md",
     "Write/React/subin/initial.md",
     "Write/JavaScript/subin/initial.md",
-    "Write/JavaScript/hyisu/initial.md",
     "Write/HTML/subin/initial.md",
     "Write/HTML/hyisu/initial.md",
     "Write/CSS/subin/initial.md",
     "Write/CSS/hyisu/initial.md",
     "Write/CS/subin/initial.md",
-    "Write/CS/hyisu/initial.md",
-    "Write/C/Subin/initial.md",
-    "Write/C/hyisu/initial.md",
-    "Write/C/C언어 공부파일을 적는 곳.md",
     "Write/React/hyisu",
     "Write/React/subin",
     "Write/JavaScript/subin",
@@ -170,9 +174,6 @@
     "Write/CSS/subin",
     "Write/CSS/hyisu",
     "Write/CS/subin",
-    "Write/CS/hyisu",
-    "Write/JavaScript/JavaScript 공부.md",
-    "Write/HTML/HTML 공부.md",
-    "Write/CSS/CSS에 대한 공부.md"
+    "Write/CS/hyisu"
   ]
 }
