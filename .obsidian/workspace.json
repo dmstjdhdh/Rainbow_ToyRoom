@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/C/Subin/백준/백준 1912 동적계획법.md",
+                "file": "Write/React_Native/subin/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/C/Subin/백준/백준 1912 동적계획법.md",
+                "file": "Write/React_Native/subin/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/C/Subin/백준/백준 1912 동적계획법.md",
+                "file": "Write/React_Native/subin/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/C/Subin/백준/백준 1912 동적계획법.md"
+                "file": "Write/React_Native/subin/Start.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "2d8cbaea834b9806",
   "lastOpenFiles": [
+    "Write/C/Subin/백준/동적계획법/백준 3015 오아시스 재결합 (풀이중).md",
+    "Write/React_Native/subin/Start.md",
+    "Write/C/Subin/백준/동적계획법/백준 1912 동적계획법.md",
+    "Write/C/Subin/백준/동적계획법",
     "Write/C/Subin/initial.md",
-    "Write/C/Subin/백준/백준 1912 동적계획법.md",
     "Write/C/Subin/백준",
     "Write/React/React 공부.md",
     "Write/React_Native/subin",
@@ -173,7 +176,6 @@
     "Write/JavaScript/hyisu",
     "Write/HTML/subin",
     "Write/HTML/hyisu",
-    "Write/CSS/subin",
     "Write/JavaScript/JavaScript 공부.md",
     "Write/HTML/HTML 공부.md",
     "Write/CSS/CSS에 대한 공부.md"
