@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/CS/hyisu/컴퓨터 구조의 기본.md",
+                "file": "Write/C/Subin/백준/스택/백준 9335 문자열 폭발.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/CS/hyisu/컴퓨터 구조의 기본.md",
+                "file": "Write/C/Subin/백준/스택/백준 9335 문자열 폭발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/CS/hyisu/컴퓨터 구조의 기본.md",
+                "file": "Write/C/Subin/백준/스택/백준 9335 문자열 폭발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/CS/hyisu/컴퓨터 구조의 기본.md"
+                "file": "Write/C/Subin/백준/스택/백준 9335 문자열 폭발.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "2d8cbaea834b9806",
   "lastOpenFiles": [
+    "Write/CS/hyisu/컴퓨터 구조의 기본.md",
+    "Write/C/Subin/백준/스택/백준 9335 문자열 폭발.md",
+    "Write/C/Subin/백준/스택",
     "Write/C/hyisu/논리연산자.md",
     "Write/C/hyisu/삼항연산자.md",
     "Write/C/Subin/백준/동적계획법/백준 1912 동적계획법.md",
-    "Write/CS/hyisu/컴퓨터 구조의 기본.md",
     "Write/CS/hyisu/코드와 명령어.md",
     "Write/CS/hyisu/initial.md",
     "Write/React_Native/subin/Start.md",
@@ -172,7 +174,6 @@
     "Write/CSS/subin/initial.md",
     "Write/CSS/subin",
     "Write/CSS/hyisu/initial.md",
-    "Write/CSS/hyisu",
     "Write/CS/subin/initial.md",
     "Write/C/hyisu/initial.md",
     "Write/C/Subin/백준/동적계획법/백준 3015 오아시스 재결합 (풀이중).md",
