@@ -1,4 +1,9 @@
-.DS_Store obsidian/workspace.json
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+
+# OR only to exclude workspace cache
 .obsidian/workspace.json
-obsidian/workspace-mobile.json
-.obsidian/workspace-mobile.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
