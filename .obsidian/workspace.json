@@ -11,11 +11,9 @@
             "id": "2d8cbaea834b9806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
-                "mode": "source",
-                "source": false
+                "file": "Write/백준/동적계획법/src/Pasted image 20231020162813.png"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
+                "file": "Write/백준/동적계획법/src/Pasted image 20231020162813.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
+                "file": "Write/백준/동적계획법/src/Pasted image 20231020162813.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md"
+                "file": "Write/백준/동적계획법/src/Pasted image 20231020162813.png"
               }
             }
           }
@@ -160,17 +158,18 @@
   },
   "active": "2d8cbaea834b9806",
   "lastOpenFiles": [
+    "Write/백준/브루트포스/백준 7568 덩치.md",
+    "Write/백준/동적계획법/백준 3015 오아시스 재결합.md",
+    "Write/백준/동적계획법/백준 2618 경찰차.md",
+    "Write/백준/동적계획법/백준 1912 동적계획법.md",
+    "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
     "Write/React/Form 태그와 event.preventDefault().md",
     "Write/React/Redux/Redux 프로젝트 내에서 적용 방법.md",
     "Write/React/ReactQuery/ReactQuery 선언 방법.md",
-    "Write/백준/브루트포스/백준 7568 덩치.md",
     "Write/C/Untitled.md",
     "Write/백준/최단경로/백준 11404 플로이드.md",
     "Write/백준/브루트포스",
     "Write/백준/스택/백준 9335 문자열 폭발.md",
-    "Write/백준/동적계획법/백준 3015 오아시스 재결합.md",
-    "Write/백준/동적계획법/백준 2618 경찰차.md",
-    "Write/백준/동적계획법/백준 1912 동적계획법.md",
     "Write/백준/동적계획법/src/Pasted image 20231020162813.png",
     "Write/React/Pasted image 20231020172005.png",
     "Write/백준/동적계획법/src",
@@ -185,7 +184,6 @@
     "README.md",
     "Write/MarkDown/수식 작성법.md",
     "Write/MarkDown",
-    "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
     "Write/JavaScript/Using 키워드.md",
     "Write/JavaScript/For in 과 For of의 차이.md",
     "Write/HTML/브라우저 렌더링 과정.md",
