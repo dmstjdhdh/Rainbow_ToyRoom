@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2d8cbaea834b9806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Write/CSS/public/Grid Layout의 기본.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "453d8c3e374f089a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/CSS/public/initial.md",
+                "file": "Write/백준/동적계획법/백준 2618 경찰차.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/CSS/public/initial.md",
+                "file": "Write/CSS/public/Grid Layout의 기본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/CSS/public/initial.md",
+                "file": "Write/CSS/public/Grid Layout의 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/CSS/public/initial.md"
+                "file": "Write/CSS/public/Grid Layout의 기본.md"
               }
             }
           }
@@ -133,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,49 +158,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e236a2f5f5efb20",
+  "active": "2d8cbaea834b9806",
   "lastOpenFiles": [
-    "Write/CSS/Initial.md",
-    "Write/CSS/public/initial.md",
-    "Write/CSS/public",
-    "Write/React/public/Initial.md",
-    "Write/CSS",
-    "Write/JavaScript/public/Initial.md",
     "Write/HTML/public/Initial.md",
-    "Write/C/public/Initial.md",
+    "Write/CSS/public/Grid Layout의 기본.md",
+    "Write/CSS/Initial.md",
+    "Write/CSS/public",
+    "Write/CSS",
     "Write/컴퓨터구조/public/computerMemory.png",
-    "Write/컴퓨터구조/public/computerMemory 1.png",
-    "Write/컴퓨터구조/public/Pasted image 20231024023959.png",
-    "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
-    "Write/컴퓨터구조/참조 지역성의 원리 및 최적화 가이드라인.md",
-    "Write/JavaScript/For in 과 For of의 차이.md",
-    "Write/JavaScript/Using 키워드.md",
-    "Write/React/ReactQuery/ReactQuery 선언 방법.md",
-    "Write/백준/public/Pasted image 20231020172005.png",
-    "Write/백준/public/Pasted image 20231020162813.png",
-    "Write/컴퓨터구조/public/Pasted image 20231024161030.png",
-    "Write/React/Form 태그와 event.preventDefault().md",
+    "Write/React/public/Initial.md",
     "Write/React/public",
+    "Write/JavaScript/public/Initial.md",
     "Write/JavaScript/public",
     "Write/HTML/public",
+    "Write/C/public/Initial.md",
     "Write/C/public",
-    "Write/컴퓨터구조/public",
-    "Write/백준/public",
-    "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
-    "Write/백준/스택/백준 9335 문자열 폭발.md",
-    "Write/컴퓨터구조/캐시 메모리의 구조.md",
-    "Write/컴퓨터구조/캐시 메모리의 투명성.md",
-    "Write/컴퓨터구조/컴퓨터 구조의 기본.md",
-    "Write/백준/동적계획법/백준 2293 동전 1.md",
-    "Write/백준/최단경로/백준 11404 플로이드.md",
-    "Write/백준/동적계획법/백준 2618 경찰차.md",
-    "Write/백준/동적계획법/백준 3015 오아시스 재결합.md",
-    "Write/백준/브루트포스/백준 7568 덩치.md",
-    "Write/백준/동적계획법/백준 1912 동적계획법.md",
-    "Write/백준/유니온파인드/백준 1717 집합의 표현.md",
-    "Write/C/실행속도를 높이기 위한 구문.md",
+    "Write/컴퓨터구조/public/Pasted image 20231024161030.png",
+    "Write/컴퓨터구조/public/Pasted image 20231024023959.png",
+    "Write/백준/public/Pasted image 20231020162813.png",
+    "Write/백준/public/Pasted image 20231020172005.png",
     "Write/C/인라인 함수(inline function).md",
+    "Write/컴퓨터구조/캐시 메모리의 투명성.md",
+    "Write/컴퓨터구조/캐시 메모리의 구조.md",
+    "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
+    "Write/컴퓨터구조/참조 지역성의 원리 및 최적화 가이드라인.md",
+    "Write/컴퓨터구조/public",
+    "Write/백준/동적계획법/백준 2293 동전 1.md",
+    "Write/백준/public",
+    "Write/C/비트 연산자.md",
+    "Write/C/실행속도를 높이기 위한 구문.md",
+    "Write/백준/최단경로/백준 11404 플로이드.md",
     "Write/백준/최단경로",
-    "Write/백준/브루트포스"
+    "Write/백준/브루트포스/백준 7568 덩치.md",
+    "Write/백준/브루트포스",
+    "Write/React/Pasted image 20231020172005.png",
+    "Write/React/Pasted image 20231020162813.png",
+    "Write/백준/동적계획법/src/Pasted image 20231020162813.png",
+    "Write/백준/동적계획법/백준 1912 동적계획법.md",
+    "Write/백준/동적계획법/백준 3015 오아시스 재결합.md",
+    "Write/백준/동적계획법/백준 2618 경찰차.md",
+    "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
+    "Write/React/Form 태그와 event.preventDefault().md",
+    "Write/React/Redux/Redux 프로젝트 내에서 적용 방법.md",
+    "Write/React/ReactQuery/ReactQuery 선언 방법.md",
+    "Write/백준/스택/백준 9335 문자열 폭발.md",
+    "Write/컴퓨터구조/컴퓨터 구조의 기본.md",
+    "Write/백준/유니온파인드/백준 1717 집합의 표현.md"
   ]
 }
