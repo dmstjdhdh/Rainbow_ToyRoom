@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
+                "file": "Write/React/public/Initial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
+                "file": "Write/React/public/Initial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
+                "file": "Write/React/public/Initial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/컴퓨터구조/캐시 메모리(Cache Memory).md"
+                "file": "Write/React/public/Initial.md"
               }
             }
           }
@@ -148,15 +148,20 @@
   },
   "active": "453d8c3e374f089a",
   "lastOpenFiles": [
-    "Write/컴퓨터구조/참조 지역성의 원리 및 최적화 가이드라인.md",
+    "Write/JavaScript/public/Initial.md",
+    "Write/React/public/Initial.md",
+    "Write/HTML/public/Initial.md",
+    "Write/C/public/Initial.md",
+    "Write/컴퓨터구조/public/computerMemory.png",
+    "Write/컴퓨터구조/public/computerMemory 1.png",
+    "Write/컴퓨터구조/public/Pasted image 20231024023959.png",
     "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
+    "Write/컴퓨터구조/참조 지역성의 원리 및 최적화 가이드라인.md",
     "Write/JavaScript/For in 과 For of의 차이.md",
     "Write/JavaScript/Using 키워드.md",
     "Write/React/ReactQuery/ReactQuery 선언 방법.md",
     "Write/백준/public/Pasted image 20231020172005.png",
     "Write/백준/public/Pasted image 20231020162813.png",
-    "Write/컴퓨터구조/public/computerMemory.png",
-    "Write/컴퓨터구조/public/Pasted image 20231024023959.png",
     "Write/컴퓨터구조/public/Pasted image 20231024161030.png",
     "Write/React/Form 태그와 event.preventDefault().md",
     "Write/React/public",
@@ -183,10 +188,6 @@
     "Write/백준/최단경로",
     "Write/백준/브루트포스",
     "Write/C/논리연산자.md",
-    "Write/C/비트 연산자.md",
-    "Write/C/삼항연산자.md",
-    "README.md",
-    "Write/MarkDown/수식 작성법.md",
     "Write/MarkDown",
     "Write/React/렌더링 및 동작"
   ]
