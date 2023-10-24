@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/React/public/Initial.md",
+                "file": "Write/CSS/public/initial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/React/public/Initial.md",
+                "file": "Write/CSS/public/initial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/React/public/Initial.md",
+                "file": "Write/CSS/public/initial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/React/public/Initial.md"
+                "file": "Write/CSS/public/initial.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "453d8c3e374f089a",
+  "active": "6e236a2f5f5efb20",
   "lastOpenFiles": [
-    "Write/JavaScript/public/Initial.md",
+    "Write/CSS/Initial.md",
+    "Write/CSS/public/initial.md",
+    "Write/CSS/public",
     "Write/React/public/Initial.md",
+    "Write/CSS",
+    "Write/JavaScript/public/Initial.md",
     "Write/HTML/public/Initial.md",
     "Write/C/public/Initial.md",
     "Write/컴퓨터구조/public/computerMemory.png",
@@ -184,11 +188,7 @@
     "Write/백준/유니온파인드/백준 1717 집합의 표현.md",
     "Write/C/실행속도를 높이기 위한 구문.md",
     "Write/C/인라인 함수(inline function).md",
-    "Write/C/불 자료형.md",
     "Write/백준/최단경로",
-    "Write/백준/브루트포스",
-    "Write/C/논리연산자.md",
-    "Write/MarkDown",
-    "Write/React/렌더링 및 동작"
+    "Write/백준/브루트포스"
   ]
 }
