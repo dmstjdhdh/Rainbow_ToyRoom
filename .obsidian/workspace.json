@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/HTML/CSR과SSR.md",
+                "file": "Write/HTML/BOM과 DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/HTML/CSR과SSR.md",
+                "file": "Write/HTML/BOM과 DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/HTML/CSR과SSR.md",
+                "file": "Write/HTML/BOM과 DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/HTML/CSR과SSR.md"
+                "file": "Write/HTML/BOM과 DOM.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   "active": "2d8cbaea834b9806",
   "lastOpenFiles": [
     "Write/HTML/브라우저 렌더링 과정.md",
+    "Write/HTML/BOM과 DOM.md",
     "Write/HTML/CSR과SSR.md",
     "Write/React/ReactQuery/ReactQuery 선언 방법.md",
     "Write/C/switch 분기문.md",
@@ -202,7 +203,6 @@
     "Write/백준/동적계획법/백준 3015 오아시스 재결합.md",
     "Write/백준/동적계획법/백준 2618 경찰차.md",
     "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
-    "Write/React/Form 태그와 event.preventDefault().md",
-    "Write/React/Redux/Redux 프로젝트 내에서 적용 방법.md"
+    "Write/React/Form 태그와 event.preventDefault().md"
   ]
 }
