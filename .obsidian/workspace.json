@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/HTML/BOM과 DOM.md",
+                "file": "Write/CSS/Box Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd950fcdab70aad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Write/CSS/public/Grid Layout의 기본.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/HTML/BOM과 DOM.md",
+                "file": "Write/CSS/public/Grid Layout의 기본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/HTML/BOM과 DOM.md",
+                "file": "Write/CSS/public/Grid Layout의 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/HTML/BOM과 DOM.md"
+                "file": "Write/CSS/public/Grid Layout의 기본.md"
               }
             }
           }
@@ -158,16 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8cbaea834b9806",
+  "active": "6e236a2f5f5efb20",
   "lastOpenFiles": [
-    "Write/HTML/브라우저 렌더링 과정.md",
+    "Write/CSS/public/Pasted image 20231029185502.png",
+    "Write/CSS/public/Grid Layout의 기본.md",
+    "Write/CSS/Box Model.md",
+    "Write/CSS/Initial.md",
+    "Write/백준/동적계획법/백준 2293 동전 1.md",
+    "Write/백준/동적계획법/백준 1912 동적계획법.md",
+    "Write/백준/동적계획법/백준 2618 경찰차.md",
+    "Write/백준/동적계획법/백준 3015 오아시스 재결합.md",
     "Write/HTML/BOM과 DOM.md",
+    "Write/HTML/브라우저 렌더링 과정.md",
     "Write/HTML/CSR과SSR.md",
     "Write/React/ReactQuery/ReactQuery 선언 방법.md",
     "Write/C/switch 분기문.md",
-    "Write/CSS/public/Grid Layout의 기본.md",
     "Write/HTML/public/Initial.md",
-    "Write/CSS/Initial.md",
     "Write/CSS/public",
     "Write/CSS",
     "Write/컴퓨터구조/public/computerMemory.png",
@@ -188,7 +207,6 @@
     "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
     "Write/컴퓨터구조/참조 지역성의 원리 및 최적화 가이드라인.md",
     "Write/컴퓨터구조/public",
-    "Write/백준/동적계획법/백준 2293 동전 1.md",
     "Write/백준/public",
     "Write/C/비트 연산자.md",
     "Write/C/실행속도를 높이기 위한 구문.md",
@@ -198,11 +216,6 @@
     "Write/백준/브루트포스",
     "Write/React/Pasted image 20231020172005.png",
     "Write/React/Pasted image 20231020162813.png",
-    "Write/백준/동적계획법/src/Pasted image 20231020162813.png",
-    "Write/백준/동적계획법/백준 1912 동적계획법.md",
-    "Write/백준/동적계획법/백준 3015 오아시스 재결합.md",
-    "Write/백준/동적계획법/백준 2618 경찰차.md",
-    "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
-    "Write/React/Form 태그와 event.preventDefault().md"
+    "Write/백준/동적계획법/src/Pasted image 20231020162813.png"
   ]
 }
