@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/CSS/Grid Layout의 기본.md",
+                "file": "Write/JavaScript/Ajax와 Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/CSS/Grid Layout의 기본.md",
+                "file": "Write/JavaScript/Ajax와 Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/CSS/Grid Layout의 기본.md",
+                "file": "Write/JavaScript/Ajax와 Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/CSS/Grid Layout의 기본.md"
+                "file": "Write/JavaScript/Ajax와 Promise.md"
               }
             }
           }
@@ -171,18 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e236a2f5f5efb20",
+  "active": "dd950fcdab70aad2",
   "lastOpenFiles": [
+    "Write/JavaScript/For in 과 For of의 차이.md",
+    "Write/FE/브라우저 렌더링 과정.md",
+    "Write/FE/BOM과 DOM.md",
+    "Write/FE/CSR과SSR.md",
+    "Write/JavaScript/Using 키워드.md",
+    "Write/JavaScript/Ajax와 Promise.md",
+    "Write/CSS/Box Model.md",
     "Write/FE/public",
     "Write/HTML/public/Initial.md",
-    "Write/FE/BOM과 DOM.md",
     "Write/zPublic",
     "Write/FE",
-    "Write/FE/CSR과SSR.md",
-    "Write/FE/브라우저 렌더링 과정.md",
     "Write/CSS/Grid Layout의 기본.md",
     "Write/CSS/public/Pasted image 20231029185502.png",
-    "Write/CSS/Box Model.md",
     "Write/CSS/Initial.md",
     "Write/백준/동적계획법/백준 2293 동전 1.md",
     "Write/백준/동적계획법/백준 1912 동적계획법.md",
@@ -210,11 +213,8 @@
     "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
     "Write/컴퓨터구조/참조 지역성의 원리 및 최적화 가이드라인.md",
     "Write/컴퓨터구조/public",
-    "Write/백준/public",
     "Write/C/비트 연산자.md",
     "Write/C/실행속도를 높이기 위한 구문.md",
-    "Write/백준/최단경로/백준 11404 플로이드.md",
-    "Write/백준/브루트포스/백준 7568 덩치.md",
     "Write/React/Pasted image 20231020172005.png",
     "Write/React/Pasted image 20231020162813.png",
     "Write/백준/동적계획법/src/Pasted image 20231020162813.png"
