@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/JavaScript/Ajax와 Promise.md",
+                "file": "Write/컴퓨터구조/입출력 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/JavaScript/Ajax와 Promise.md",
+                "file": "Write/컴퓨터구조/입출력 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/JavaScript/Ajax와 Promise.md",
+                "file": "Write/컴퓨터구조/입출력 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/JavaScript/Ajax와 Promise.md"
+                "file": "Write/컴퓨터구조/입출력 방법.md"
               }
             }
           }
@@ -173,12 +173,14 @@
   },
   "active": "dd950fcdab70aad2",
   "lastOpenFiles": [
+    "Write/JavaScript/Ajax와 Promise.md",
+    "Write/컴퓨터구조/입출력 방법.md",
+    "Write/컴퓨터구조/public/Untitled.md",
     "Write/JavaScript/For in 과 For of의 차이.md",
     "Write/FE/브라우저 렌더링 과정.md",
     "Write/FE/BOM과 DOM.md",
     "Write/FE/CSR과SSR.md",
     "Write/JavaScript/Using 키워드.md",
-    "Write/JavaScript/Ajax와 Promise.md",
     "Write/CSS/Box Model.md",
     "Write/FE/public",
     "Write/HTML/public/Initial.md",
@@ -213,8 +215,6 @@
     "Write/컴퓨터구조/캐시 메모리(Cache Memory).md",
     "Write/컴퓨터구조/참조 지역성의 원리 및 최적화 가이드라인.md",
     "Write/컴퓨터구조/public",
-    "Write/C/비트 연산자.md",
-    "Write/C/실행속도를 높이기 위한 구문.md",
     "Write/React/Pasted image 20231020172005.png",
     "Write/React/Pasted image 20231020162813.png",
     "Write/백준/동적계획법/src/Pasted image 20231020162813.png"
