@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/BackEnd/가상화.md",
+                "file": "Write/React/useEffect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/BackEnd/가상화.md",
+                "file": "Write/React/useEffect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/BackEnd/가상화.md",
+                "file": "Write/React/useEffect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/BackEnd/가상화.md"
+                "file": "Write/React/useEffect.md"
               }
             }
           }
@@ -148,11 +148,16 @@
   },
   "active": "6b8173dcc5981343",
   "lastOpenFiles": [
-    "Write/React/Pasted image 20231111173151.png",
-    "Write/React/Pasted image 20231111170759.png",
-    "Write/React/Happy Social Media Day!.png",
-    "Write/BackEnd/Express.js와 REST.md",
+    "Write/React/Form 태그와 event.preventDefault().md",
+    "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
+    "Write/React/React와 트리구조.md",
+    "Write/React/useEffect.md",
+    "Write/BackEnd/public/Pasted image 20231111173151.png",
+    "Write/BackEnd/public/Happy Social Media Day!.png",
+    "Write/BackEnd/public",
+    "Write/BackEnd/public/Pasted image 20231111170759.png",
     "Write/BackEnd/가상화.md",
+    "Write/BackEnd/Express.js와 REST.md",
     "Write/C/do while 반복문.md",
     "Write/BackEnd",
     "Write/C/while 반복문.md",
@@ -167,7 +172,6 @@
     "Write/React_Native",
     "Write/백준/트리/트리순회.md",
     "Write/Python",
-    "Write/React/React와 트리구조.md",
     "Write/자료구조/트리 구조.md",
     "Write/자료구조",
     "Write/컴퓨터구조/컴퓨터 구조의 기본.md",
@@ -177,22 +181,18 @@
     "Write/C/트리 구조.md",
     "Write/C/public/treestructure_83818.png",
     "Write/컴퓨터구조/캐시 메모리의 투명성.md",
-    "Write/React/React 엘리먼트 렌더링, 컴포넌트와 Props.md",
     "Write/백준/동적계획법/백준 2618 경찰차.md",
     "Write/백준/동적계획법/백준 2293 동전 1.md",
     "Write/백준/동적계획법/백준 1912 동적계획법.md",
-    "Write/C/논리연산자.md",
     "Write/FrontEnd",
     "Write/CSS/public/Pasted image 20231029185502.png",
     "Write/CSS/public",
     "Write/CSS",
     "Write/컴퓨터구조/public/computerMemory.png",
     "Write/React/public",
-    "Write/JavaScript/public",
     "Write/컴퓨터구조/public/Pasted image 20231024161030.png",
     "Write/컴퓨터구조/public/Pasted image 20231024023959.png",
     "Write/백준/public/Pasted image 20231020162813.png",
-    "Write/백준/public/Pasted image 20231020172005.png",
-    "Write/React/Pasted image 20231020172005.png"
+    "Write/백준/public/Pasted image 20231020172005.png"
   ]
 }
