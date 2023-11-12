@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/BackEnd/Express.js와 REST.md",
+                "file": "Write/BackEnd/Docker는 뭐지? 라는 궁금증에서부터 시작했더니.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/BackEnd/Express.js와 REST.md",
+                "file": "Write/BackEnd/Docker는 뭐지? 라는 궁금증에서부터 시작했더니.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/BackEnd/Express.js와 REST.md",
+                "file": "Write/BackEnd/Docker는 뭐지? 라는 궁금증에서부터 시작했더니.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/BackEnd/Express.js와 REST.md"
+                "file": "Write/BackEnd/Docker는 뭐지? 라는 궁금증에서부터 시작했더니.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "6b8173dcc5981343",
   "lastOpenFiles": [
-    "Write/C/do while 반복문.md",
+    "Write/React/Pasted image 20231111173151.png",
+    "Write/React/Pasted image 20231111170759.png",
+    "Write/React/Happy Social Media Day!.png",
     "Write/BackEnd/Express.js와 REST.md",
+    "Write/BackEnd/Docker는 뭐지? 라는 궁금증에서부터 시작했더니.md",
+    "Write/C/do while 반복문.md",
     "Write/BackEnd",
     "Write/C/while 반복문.md",
     "Write/C/public/do while 반복문.md",
@@ -178,8 +182,6 @@
     "Write/백준/동적계획법/백준 2293 동전 1.md",
     "Write/백준/동적계획법/백준 1912 동적계획법.md",
     "Write/C/논리연산자.md",
-    "Write/C/삼항연산자.md",
-    "Write/JavaScript/Ajax와 Promise.md",
     "Write/FrontEnd",
     "Write/CSS/public/Pasted image 20231029185502.png",
     "Write/CSS/public",
@@ -191,8 +193,6 @@
     "Write/컴퓨터구조/public/Pasted image 20231024023959.png",
     "Write/백준/public/Pasted image 20231020162813.png",
     "Write/백준/public/Pasted image 20231020172005.png",
-    "Write/React/Pasted image 20231020172005.png",
-    "Write/React/Pasted image 20231020162813.png",
-    "Write/백준/동적계획법/src/Pasted image 20231020162813.png"
+    "Write/React/Pasted image 20231020172005.png"
   ]
 }
