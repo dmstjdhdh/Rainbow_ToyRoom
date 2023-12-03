@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/C/auto.md",
+                "file": "Write/React_Native/React Calendar로 날짜 선택 컨텐츠 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/C/auto.md",
+                "file": "Write/React_Native/React Calendar로 날짜 선택 컨텐츠 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/C/auto.md",
+                "file": "Write/React_Native/React Calendar로 날짜 선택 컨텐츠 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/C/auto.md"
+                "file": "Write/React_Native/React Calendar로 날짜 선택 컨텐츠 만들기.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "6b8173dcc5981343",
   "lastOpenFiles": [
-    "Write/C/덱 구조.md",
     "Write/C/auto.md",
+    "Write/React_Native/React Calendar로 날짜 선택 컨텐츠 만들기.md",
+    "Write/C/덱 구조.md",
     "Write/백준/auto.md",
     "Write/BackEnd/가상화.md",
     "Write/React/useEffect.md",
@@ -183,7 +184,6 @@
     "Write/백준/트리순회.md",
     "Write/C/트리 구조.md",
     "Write/C/public/treestructure_83818.png",
-    "Write/컴퓨터구조/캐시 메모리의 투명성.md",
     "Write/FrontEnd",
     "Write/CSS/public/Pasted image 20231029185502.png",
     "Write/CSS/public",
